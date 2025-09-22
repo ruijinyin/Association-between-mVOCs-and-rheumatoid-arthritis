@@ -1,4 +1,5 @@
-mVOCs co-exposure and RA (NHANES 2005–2020)
+R code for manuscript of mVOCs co-exposure and RA
+
 This repository provides R code and documentation for reproducing the analysis presented in the manuscript:
 "Association between volatile organic compound co-exposure and the prevalence of rheumatoid arthritis: A nationwide cross-sectional study"
 
